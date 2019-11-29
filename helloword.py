@@ -14,7 +14,7 @@ def hello_word(name):
 
 
 hello_word("Monika")
-imie = input("Podaj imie:")
+imie = input("Give me the name:")
     
 
 def print_hello(nameX):
